@@ -6,6 +6,6 @@
   <img  src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" /> 
   <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="linux" width="40" height="40"/>
   <img src="https://docs.soliditylang.org/en/v0.8.11/_static/logo.svg" alt="linux" width="40" height="40"/>
-  
+  <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="linux" width="40" height="40"/>
 </p>
 
