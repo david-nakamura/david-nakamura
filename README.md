@@ -1,4 +1,4 @@
-<h1 align="center">Blockchain & Web3</h1>
+<h1 align="center">FullStack & Blockchain & Web3</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>  
